@@ -1,23 +1,23 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "notes": "Bug fixes and performance improvements",
-  "pub_date": "2026-07-10T20:12:34.325Z",
+  "pub_date": "2026-07-10T20:49:14.559Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOXE3Rjg5MnhqamZkM2RuOUdFNVlaT1lYYnorNzV2QldpSzBlcmtPeGR1YkJEUjIycXg5bWdZQlVxRTNFeEJ0Zm90UENPNG81UDMxTlJ3d2wxUkNuWG9qVHRKN2w1Z2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzE0MTQyCWZpbGU6RmFjYWRlT0NfMS4wLjVfeDY0LXNldHVwLmV4ZQp2R1R3TnVJbklobGkzZE5uWjlEZGgwdHYyZUZQK0o1N1hqMFY0RWE0N3lrbUFieFNjSm4vcnFnWFhwN0lTRGlFK3pkM1dKd2xpZWF5YU5qZXRWUm5Bdz09Cg==",
-      "url": "https://github.com/saurabh850/FacadeOC-Releases/releases/download/v1.0.5/FacadeOC_1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOXE3Rjg5MnhqamUxc20wS05mTEVtY1lYZUpkb0NHN2I4U2lwMjBTVTk1YXRhUDRaUlhLTmVlN3BkdVpuMDNEWU8xeGhjWFhTODJQcXJQazVFN2lKUkQ2aWtLU3JpRGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzE2MzAyCWZpbGU6RmFjYWRlT0NfMS4wLjZfeDY0LXNldHVwLmV4ZQpiLzcvSUJPYUw4RWFvVFVnMlA5djNLN2Z3ZVFlM2Y0dUZ3TlZWRm9weU80b0I4NnNOcDZZWVQ3dmxPNUZ1TUdtRXJVN1psTGlWZ2o0MS9rVHBReE9DQT09Cg==",
+      "url": "https://github.com/saurabh850/FacadeOC-Releases/releases/download/v1.0.6/FacadeOC_1.0.6_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOXE3Rjg5MnhqamFSUEhxeGtwb055NWFqNWFFNFVveXpUNEc4MjFMU1NLanBwZkIyQURBUnVvbUZTUldneGM1aWtSVnh5dk1DYlZWcnhZTnpGUk1hMUxwS3N6S1Y3b3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzEzMjkzCWZpbGU6RmFjYWRlT0MuYXBwLnRhci5negpMZEp2eVlLNSs4S1BrdUhvc2VUKzdCWnM4ZTUxSXZZRmVQTUJSS0J0V1RaUWM3ZnJkdURTbWJvY0xnUDRORndUMzBpVzJBMUpvTlhNU09rQTdkUGJEdz09Cg==",
-      "url": "https://github.com/saurabh850/FacadeOC-Releases/releases/download/v1.0.5/FacadeOC.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOXE3Rjg5MnhqamNxWFIrZkdLeGRDQzlUM1B2ZkN2aXhvdGRMYlVTSlFhbUhlMkFDbkdSbkZGbVpRRUthSk92UXZoWnJ5a1lmWGNpbzBBMWdIM1BHaW9SL20wcEFjSFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzE1NDg1CWZpbGU6RmFjYWRlT0MuYXBwLnRhci5negpwcTU4ZnhTWGFidkJWdGQ3N2ZGYjRCTklTZW80UlVGNHdWblRDQ1V5UDh6U255VUJySGI3NlJlVHdVcGdjYVdWUTh2TndqMDByd0haT2Y0VmpLWlhBdz09Cg==",
+      "url": "https://github.com/saurabh850/FacadeOC-Releases/releases/download/v1.0.6/FacadeOC.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOXE3Rjg5MnhqamFSUEhxeGtwb055NWFqNWFFNFVveXpUNEc4MjFMU1NLanBwZkIyQURBUnVvbUZTUldneGM1aWtSVnh5dk1DYlZWcnhZTnpGUk1hMUxwS3N6S1Y3b3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzEzMjkzCWZpbGU6RmFjYWRlT0MuYXBwLnRhci5negpMZEp2eVlLNSs4S1BrdUhvc2VUKzdCWnM4ZTUxSXZZRmVQTUJSS0J0V1RaUWM3ZnJkdURTbWJvY0xnUDRORndUMzBpVzJBMUpvTlhNU09rQTdkUGJEdz09Cg==",
-      "url": "https://github.com/saurabh850/FacadeOC-Releases/releases/download/v1.0.5/FacadeOC.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOXE3Rjg5MnhqamNxWFIrZkdLeGRDQzlUM1B2ZkN2aXhvdGRMYlVTSlFhbUhlMkFDbkdSbkZGbVpRRUthSk92UXZoWnJ5a1lmWGNpbzBBMWdIM1BHaW9SL20wcEFjSFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzE1NDg1CWZpbGU6RmFjYWRlT0MuYXBwLnRhci5negpwcTU4ZnhTWGFidkJWdGQ3N2ZGYjRCTklTZW80UlVGNHdWblRDQ1V5UDh6U255VUJySGI3NlJlVHdVcGdjYVdWUTh2TndqMDByd0haT2Y0VmpLWlhBdz09Cg==",
+      "url": "https://github.com/saurabh850/FacadeOC-Releases/releases/download/v1.0.6/FacadeOC.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOXE3Rjg5MnhqalpETXlkeVo1OXJWeDJLbkxQSno2U04vZjBEZnJieTVNNkJXUnJkRkRLTmMwM1dXeHhEbnovN256NEd3eGY5Z20zMUIzWUkyRGN4OFVNd1Z6Tk9FWVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzEzOTM3CWZpbGU6RmFjYWRlT0NfMS4wLjVfYW1kNjQuQXBwSW1hZ2UKY0RQNVhYd2tXUHNSSTVnbUJ4MkV5Q1F6ZG9zVml2V3hJc1lMbVNPNUpMNWF5N0U3eXE3UzZWblV0NFE0WVZTZngzWk80L0p2SERUMXIvdnIzWWY3QlE9PQo=",
-      "url": "https://github.com/saurabh850/FacadeOC-Releases/releases/download/v1.0.5/FacadeOC_1.0.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOXE3Rjg5MnhqamFGVU80L1ZsUTA4UU8zZlE4Y2cvUGZKemd4bWNxemNyelkvL2R1K0pMN0tKZG5rSzBEVUduWjVpa2U1ZnZNUlUvNDVaeUc4cnIrZTl3MXprTHVkT1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzE2MTM2CWZpbGU6RmFjYWRlT0NfMS4wLjZfYW1kNjQuQXBwSW1hZ2UKWlIwUDV6bTNDVUVYdWNjbmRTK0NSSTRVdGZuWFBmSVY2WjE5OGVod093RGloTmF3bCt4NmRwT3FNYkd6cjMzc0x2K3VDcVFoaG9iVDBvQ1c5cEZBQ2c9PQo=",
+      "url": "https://github.com/saurabh850/FacadeOC-Releases/releases/download/v1.0.6/FacadeOC_1.0.6_amd64.AppImage"
     }
   }
 }
