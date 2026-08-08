@@ -56,7 +56,7 @@ Every story you tell stays on your hard drive. Once the initial model is downloa
 
 1. **Get FacadeOC:** Purchase a license and instantly download the FacadeOC app to your computer (Windows, Mac, or Linux).
 2. **One-Click Setup:** Open the app and let it automatically download everything it needs to run completely offline. No complicated configuration required.
-3. **Start Roleplaying:** Choose from pre-made characters or import your own, and dive into an unlimited universe of stories.
+3. **Start Playing:** Choose from pre-made characters or import your own, and dive into an unlimited universe of stories.
 
 ## System Requirements
 - **OS:** Windows (10/11), macOS, or Linux
